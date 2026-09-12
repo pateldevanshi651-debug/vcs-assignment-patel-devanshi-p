@@ -1,0 +1,2 @@
+My name is Patel Devanshi P and I am a student of Data Science & Analytics.
+I am learning Git and GitHub to understand version control and collaboration.
